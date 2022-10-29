@@ -13,11 +13,11 @@
 <b>An unofficial Twitter SDK for Python</b>
 </h3>
 
-This repository replaces the Cython dependency, `orderedset` with `ordered_set` for a suitable Windows version.
-
 <p align="center">
     <a href="https://www.buymeacoffee.com/brunneis" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="35px"></a>
 </p>
+
+This repository replaces the Cython dependency, `orderedset` with `ordered_set` for a suitable Windows version.
 
 # Installation
 
