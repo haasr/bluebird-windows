@@ -4,7 +4,7 @@
 import requests
 from .http_helper import TwitterHttpHelper as HttpHelper
 from urllib.parse import quote
-from orderedset import OrderedSet
+from ordered_set import OrderedSet
 from lxml.html import document_fromstring
 from lxml.etree import tostring, ParserError
 import time
