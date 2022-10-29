@@ -13,6 +13,8 @@
 <b>An unofficial Twitter SDK for Python</b>
 </h3>
 
+<p align="center">This repository replaces the Cython dependency, `orderedset` with `ordered_set` for a suitable Windows version.</p>
+
 <p align="center">
     <a href="https://www.buymeacoffee.com/brunneis" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="35px"></a>
 </p>
@@ -21,10 +23,10 @@
 
 > bluebird works with Python +3.7
 
-You can install the `bluebird` package directly with `pip` / `pip3`:
+Clone the repository. From the root of the cloned folder, run:
 
 ```bash
-pip install bluebird
+pip install -e .
 ```
 
 # Twitter
